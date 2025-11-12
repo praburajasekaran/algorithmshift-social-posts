@@ -11,3 +11,6 @@ Client: [[Shankar Prabhu J]]
 **Post Concept:** Every step recorded, every change logged, every approval tracked. Audit day stops being a scramble.
 
 **Visual:** Digital timeline glowing against black background, each point pulsing softly.
+
+nana Banana: https://aistudio.google.com/prompts/1s_S_TmePsLJ2elOUyAt-Zhvp325vSyTx 
+
