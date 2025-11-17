@@ -1,0 +1,493 @@
+{
+  "base_url": "https://www.algorithmshift.ai/docs",
+  "scraped_at": "2025-11-17T13:01:55.377643",
+  "total_pages": 78,
+  "pages": {
+    "https://www.algorithmshift.ai/docs": {
+      "title": "Introduction - AlgorithmShift Documentation | AlgorithmShift",
+      "description": "Learn how to build web apps, mobile apps, workflows, and AI agents with AlgorithmShift.",
+      "scraped_at": "2025-11-17T13:00:19.115193"
+    },
+    "https://www.algorithmshift.ai/": {
+      "title": "AlgorithmShift",
+      "description": "Build web applications, mobile apps, workflows, and AI agents with visual tools and code-level control",
+      "text_length": 3726,
+      "image_count": 3,
+      "markdown_file": "markdown/algorithmshift.md",
+      "scraped_at": "2025-11-17T13:00:20.254141"
+    },
+    "https://www.algorithmshift.ai/platform": {
+      "title": "Platform | AlgorithmShift",
+      "description": "Deep dive into AlgorithmShift's enterprise-grade full-stack development platform. Build web apps, mobile apps, workflows, and AI agents.",
+      "text_length": 5753,
+      "image_count": 2,
+      "markdown_file": "markdown/platform-algorithmshift.md",
+      "scraped_at": "2025-11-17T13:00:21.449336"
+    },
+    "https://www.algorithmshift.ai/solutions/web-apps": {
+      "title": "Web Applications | AlgorithmShift",
+      "description": "Build production-ready web applications faster with AlgorithmShift. From prototypes to enterprise solutions.",
+      "text_length": 4519,
+      "image_count": 2,
+      "markdown_file": "markdown/web-applications-algorithmshift.md",
+      "scraped_at": "2025-11-17T13:00:22.599467"
+    },
+    "https://www.algorithmshift.ai/solutions/mobile-apps": {
+      "title": "Mobile Applications | AlgorithmShift",
+      "description": "Build native iOS and Android apps from a single codebase. React Native powered, Expo integrated, production-ready.",
+      "text_length": 4968,
+      "image_count": 2,
+      "markdown_file": "markdown/mobile-applications-algorithmshift.md",
+      "scraped_at": "2025-11-17T13:00:23.851759"
+    },
+    "https://www.algorithmshift.ai/solutions/workflows": {
+      "title": "Workflow Automation | AlgorithmShift",
+      "description": "Automate business processes with visual workflow builder. Connect apps, automate tasks, and eliminate manual work.",
+      "text_length": 5223,
+      "image_count": 2,
+      "markdown_file": "markdown/workflow-automation-algorithmshift.md",
+      "scraped_at": "2025-11-17T13:00:24.996687"
+    },
+    "https://www.algorithmshift.ai/solutions/ai-agents": {
+      "title": "AI Agents & Chatbots | AlgorithmShift",
+      "description": "Build intelligent AI agents powered by GPT-4, Claude, and custom LLMs. RAG-enabled, tool-equipped, production-ready.",
+      "text_length": 5273,
+      "image_count": 2,
+      "markdown_file": "markdown/ai-agents-chatbots-algorithmshift.md",
+      "scraped_at": "2025-11-17T13:00:26.154810"
+    },
+    "https://www.algorithmshift.ai/solutions/enterprise": {
+      "title": "Enterprise Solutions | AlgorithmShift",
+      "description": "Enterprise-grade platform working towards SOC 2 compliance, with SSO, dedicated support, and SLA guarantees.",
+      "text_length": 5270,
+      "image_count": 2,
+      "markdown_file": "markdown/enterprise-solutions-algorithmshift.md",
+      "scraped_at": "2025-11-17T13:00:27.325378"
+    },
+    "https://www.algorithmshift.ai/templates": {
+      "title": "Templates - AlgorithmShift | AlgorithmShift",
+      "description": "Ready-to-use templates for web apps, mobile apps, workflows, and AI agents.",
+      "text_length": 2608,
+      "image_count": 2,
+      "markdown_file": "markdown/templates---algorithmshift-algorithmshift.md",
+      "scraped_at": "2025-11-17T13:00:28.442788"
+    },
+    "https://www.algorithmshift.ai/pricing": {
+      "title": "Pricing | AlgorithmShift",
+      "description": "Simple, transparent pricing for teams of all sizes. Start free, upgrade as you grow.",
+      "text_length": 935,
+      "image_count": 2,
+      "markdown_file": "markdown/pricing-algorithmshift.md",
+      "scraped_at": "2025-11-17T13:00:29.540045"
+    },
+    "https://www.algorithmshift.ai/resources/case-studies": {
+      "title": "Case Studies - AlgorithmShift | AlgorithmShift",
+      "description": "See how companies are building successful applications with AlgorithmShift.",
+      "text_length": 956,
+      "image_count": 2,
+      "markdown_file": "markdown/case-studies---algorithmshift-algorithmshift.md",
+      "scraped_at": "2025-11-17T13:00:30.651079"
+    },
+    "https://www.algorithmshift.ai/resources/integrations": {
+      "title": "Integrations - AlgorithmShift | AlgorithmShift",
+      "description": "Connect with your favorite tools and services. Integrate with 30+ platforms including Stripe, Shopify, Salesforce, Slack, and more.",
+      "text_length": 3585,
+      "image_count": 2,
+      "markdown_file": "markdown/integrations---algorithmshift-algorithmshift.md",
+      "scraped_at": "2025-11-17T13:00:31.865244"
+    },
+    "https://www.algorithmshift.ai/resources/security": {
+      "title": "Security & Compliance - AlgorithmShift | AlgorithmShift",
+      "description": "Enterprise-grade security and compliance. Working towards SOC 2, ISO 27001, GDPR, and PIPEDA compliance.",
+      "text_length": 3193,
+      "image_count": 2,
+      "markdown_file": "markdown/security-compliance---algorithmshift-algorithmshift.md",
+      "scraped_at": "2025-11-17T13:00:32.979598"
+    },
+    "https://www.algorithmshift.ai/vs": {
+      "title": "Compare AlgorithmShift vs. Competitors | Platform Comparison | AlgorithmShift",
+      "description": "See how AlgorithmShift compares to Salesforce, HubSpot, Microsoft Dynamics, Retool, Bubble, and other platforms. Save up to $200K+ over 5 years.",
+      "text_length": 3221,
+      "image_count": 2,
+      "markdown_file": "markdown/compare-algorithmshift-vs-competitors-platform-comparison-algorithmshift.md",
+      "scraped_at": "2025-11-17T13:00:34.100769"
+    },
+    "https://www.algorithmshift.ai/blog": {
+      "title": "AlgorithmShift",
+      "description": "Build web applications, mobile apps, workflows, and AI agents with visual tools and code-level control",
+      "text_length": 930,
+      "image_count": 2,
+      "markdown_file": "markdown/algorithmshift-1.md",
+      "scraped_at": "2025-11-17T13:00:35.158593"
+    },
+    "https://www.algorithmshift.ai/signin": {
+      "title": "Sign In - AlgorithmShift | AlgorithmShift",
+      "description": "Sign in to your AlgorithmShift account.",
+      "text_length": 938,
+      "image_count": 2,
+      "markdown_file": "markdown/sign-in---algorithmshift-algorithmshift.md",
+      "scraped_at": "2025-11-17T13:00:36.196638"
+    },
+    "https://www.algorithmshift.ai/signup": {
+      "title": "AlgorithmShift",
+      "description": "Build web applications, mobile apps, workflows, and AI agents with visual tools and code-level control",
+      "text_length": 695,
+      "image_count": 2,
+      "markdown_file": "markdown/algorithmshift-2.md",
+      "scraped_at": "2025-11-17T13:00:37.276953"
+    },
+    "https://www.algorithmshift.ai/docs/quick-start": {
+      "title": "Quick Start - AlgorithmShift Documentation | AlgorithmShift",
+      "description": "Get started with AlgorithmShift in 5 minutes. Create your first application and deploy it to production.",
+      "scraped_at": "2025-11-17T13:00:38.393345"
+    },
+    "https://www.algorithmshift.ai/docs/installation": {
+      "title": "Installation - AlgorithmShift Documentation | AlgorithmShift",
+      "description": "Complete installation guide for AlgorithmShift platform. Set up your account, workspace, and start building applications.",
+      "scraped_at": "2025-11-17T13:00:39.475717"
+    },
+    "https://www.algorithmshift.ai/docs/project-structure": {
+      "title": "Project Structure - AlgorithmShift Documentation | AlgorithmShift",
+      "description": "Understand how AlgorithmShift organizes workspaces, applications, databases, and resources.",
+      "scraped_at": "2025-11-17T13:00:40.574553"
+    },
+    "https://www.algorithmshift.ai/docs/visual-builder": {
+      "title": "Visual App Builder - AlgorithmShift Documentation | AlgorithmShift",
+      "description": "Build web and mobile applications with AlgorithmShift's drag-and-drop visual builder. No coding required, but code access available.",
+      "scraped_at": "2025-11-17T13:00:41.756161"
+    },
+    "https://www.algorithmshift.ai/docs/mobile": {
+      "title": "Mobile Apps - AlgorithmShift Documentation | AlgorithmShift",
+      "description": "Build native iOS and Android applications with React Native. Visual builder with live mobile preview.",
+      "scraped_at": "2025-11-17T13:00:42.968416"
+    },
+    "https://www.algorithmshift.ai/docs/workflows": {
+      "title": "Workflows - AlgorithmShift Documentation | AlgorithmShift",
+      "description": "Automate business processes with visual workflows. Connect triggers, actions, and conditional logic.",
+      "scraped_at": "2025-11-17T13:00:44.042206"
+    },
+    "https://www.algorithmshift.ai/docs/ai-agents": {
+      "title": "AI Agents - AlgorithmShift Documentation | AlgorithmShift",
+      "description": "Build intelligent AI agents powered by GPT-4, Claude, and Bedrock. Create chatbots, assistants, and automation agents.",
+      "scraped_at": "2025-11-17T13:00:45.109141"
+    },
+    "https://www.algorithmshift.ai/docs/database": {
+      "title": "Database & APIs - AlgorithmShift Documentation | AlgorithmShift",
+      "description": "Build and manage PostgreSQL databases with auto-generated REST and GraphQL APIs.",
+      "scraped_at": "2025-11-17T13:00:46.206340"
+    },
+    "https://www.algorithmshift.ai/docs/tutorials": {
+      "title": "Tutorials - AlgorithmShift Documentation | AlgorithmShift",
+      "description": "Step-by-step tutorials for building common applications with AlgorithmShift.",
+      "scraped_at": "2025-11-17T13:00:47.303103"
+    },
+    "https://www.algorithmshift.ai/docs/api": {
+      "title": "REST API Reference - AlgorithmShift Documentation | AlgorithmShift",
+      "description": "Complete REST API documentation. Auto-generated endpoints for every table with filtering, sorting, and pagination.",
+      "scraped_at": "2025-11-17T13:00:48.344286"
+    },
+    "https://www.algorithmshift.ai/docs/examples": {
+      "title": "Code Examples - AlgorithmShift Documentation | AlgorithmShift",
+      "description": "Ready-to-use code examples for common patterns and use cases.",
+      "scraped_at": "2025-11-17T13:00:49.419988"
+    },
+    "https://www.algorithmshift.ai/solutions": {
+      "title": "Solutions | AlgorithmShift",
+      "description": "Discover how AlgorithmShift powers web applications, mobile apps, workflow automation, AI agents, and enterprise _solutions_original.",
+      "text_length": 969,
+      "image_count": 2,
+      "markdown_file": "markdown/solutions-algorithmshift.md",
+      "scraped_at": "2025-11-17T13:00:50.478158"
+    },
+    "https://www.algorithmshift.ai/careers": {
+      "title": "Careers - AlgorithmShift | AlgorithmShift",
+      "description": "Join our team and help build the future of application development.",
+      "text_length": 978,
+      "image_count": 2,
+      "markdown_file": "markdown/careers---algorithmshift-algorithmshift.md",
+      "scraped_at": "2025-11-17T13:00:51.550286"
+    },
+    "https://www.algorithmshift.ai/contact": {
+      "title": "Contact Us - AlgorithmShift | AlgorithmShift",
+      "description": "Get in touch with AlgorithmShift. 24/7 support available. Headquarters in Toronto, Canada with development center in Chennai, India.",
+      "text_length": 2790,
+      "image_count": 2,
+      "markdown_file": "markdown/contact-us---algorithmshift-algorithmshift.md",
+      "scraped_at": "2025-11-17T13:00:52.641587"
+    },
+    "https://www.algorithmshift.ai/privacy": {
+      "title": "Privacy Policy - AlgorithmShift | AlgorithmShift",
+      "description": "AlgorithmShift Privacy Policy - How we protect your data.",
+      "text_length": 994,
+      "image_count": 2,
+      "markdown_file": "markdown/privacy-policy---algorithmshift-algorithmshift.md",
+      "scraped_at": "2025-11-17T13:00:53.737684"
+    },
+    "https://www.algorithmshift.ai/terms": {
+      "title": "Terms of Service - AlgorithmShift | AlgorithmShift",
+      "description": "AlgorithmShift Terms of Service and usage guidelines.",
+      "text_length": 972,
+      "image_count": 2,
+      "markdown_file": "markdown/terms-of-service---algorithmshift-algorithmshift.md",
+      "scraped_at": "2025-11-17T13:00:54.864052"
+    },
+    "https://www.algorithmshift.ai/compliance": {
+      "title": "Compliance - AlgorithmShift | AlgorithmShift",
+      "description": "AlgorithmShift security compliance and certifications.",
+      "text_length": 988,
+      "image_count": 2,
+      "markdown_file": "markdown/compliance---algorithmshift-algorithmshift.md",
+      "scraped_at": "2025-11-17T13:00:55.951772"
+    },
+    "https://www.algorithmshift.ai/status": {
+      "title": "System Status - AlgorithmShift | AlgorithmShift",
+      "description": "AlgorithmShift platform status and uptime monitoring.",
+      "text_length": 964,
+      "image_count": 2,
+      "markdown_file": "markdown/system-status---algorithmshift-algorithmshift.md",
+      "scraped_at": "2025-11-17T13:00:57.069159"
+    },
+    "https://www.algorithmshift.ai/vs/salesforce": {
+      "title": "AlgorithmShift vs. Salesforce - Platform Comparison 2025 | AlgorithmShift",
+      "description": "Compare AlgorithmShift and Salesforce Agentforce. Build custom applications at 1/10th the cost with modern tech stack. Save $270K+ over 5 years.",
+      "text_length": 3992,
+      "image_count": 2,
+      "markdown_file": "markdown/algorithmshift-vs-salesforce---platform-comparison-2025-algorithmshift.md",
+      "scraped_at": "2025-11-17T13:00:58.168968"
+    },
+    "https://www.algorithmshift.ai/vs/hubspot": {
+      "title": "AlgorithmShift vs. HubSpot - Platform Comparison 2025 | AlgorithmShift",
+      "description": "Compare AlgorithmShift and HubSpot Breeze AI. Full application platform vs all-in-one CRM. Save $220K+ over 5 years.",
+      "text_length": 3862,
+      "image_count": 2,
+      "markdown_file": "markdown/algorithmshift-vs-hubspot---platform-comparison-2025-algorithmshift.md",
+      "scraped_at": "2025-11-17T13:00:59.418195"
+    },
+    "https://www.algorithmshift.ai/vs/microsoft-dynamics": {
+      "title": "AlgorithmShift vs. Microsoft Dynamics 365 - Platform Comparison 2025 | AlgorithmShift",
+      "description": "Compare AlgorithmShift and Microsoft Dynamics 365 with Copilot. Modern development platform vs enterprise suite. Save $210K+ over 5 years.",
+      "text_length": 3605,
+      "image_count": 2,
+      "markdown_file": "markdown/algorithmshift-vs-microsoft-dynamics-365---platform-comparison-2025-algorithmshift.md",
+      "scraped_at": "2025-11-17T13:01:00.588973"
+    },
+    "https://www.algorithmshift.ai/vs/zoho": {
+      "title": "AlgorithmShift vs. Zoho CRM - Platform Comparison 2025 | AlgorithmShift",
+      "description": "Compare AlgorithmShift and Zoho CRM with Zia AI. Full code access vs no-code limitations. Build custom apps beyond CRM.",
+      "text_length": 3653,
+      "image_count": 2,
+      "markdown_file": "markdown/algorithmshift-vs-zoho-crm---platform-comparison-2025-algorithmshift.md",
+      "scraped_at": "2025-11-17T13:01:01.688990"
+    },
+    "https://www.algorithmshift.ai/vs/retool": {
+      "title": "AlgorithmShift vs. Retool - Platform Comparison 2025 | AlgorithmShift",
+      "description": "Compare AlgorithmShift and Retool. Build more than internal tools - native mobile apps, AI agents, and customer-facing applications.",
+      "text_length": 3607,
+      "image_count": 2,
+      "markdown_file": "markdown/algorithmshift-vs-retool---platform-comparison-2025-algorithmshift.md",
+      "scraped_at": "2025-11-17T13:01:02.808796"
+    },
+    "https://www.algorithmshift.ai/vs/bubble": {
+      "title": "AlgorithmShift vs. Bubble - Platform Comparison 2025 | AlgorithmShift",
+      "description": "Compare AlgorithmShift and Bubble. Visual builder with full code access vs pure no-code. Native mobile apps, modern tech stack, zero vendor lock-in.",
+      "text_length": 3588,
+      "image_count": 2,
+      "markdown_file": "markdown/algorithmshift-vs-bubble---platform-comparison-2025-algorithmshift.md",
+      "scraped_at": "2025-11-17T13:01:03.968279"
+    },
+    "https://www.algorithmshift.ai/vs/appsmith": {
+      "title": "AlgorithmShift vs. Appsmith - Platform Comparison 2025 | AlgorithmShift",
+      "description": "Compare AlgorithmShift and Appsmith. Full-stack platform with native mobile and AI agents vs internal tools builder.",
+      "text_length": 3747,
+      "image_count": 2,
+      "markdown_file": "markdown/algorithmshift-vs-appsmith---platform-comparison-2025-algorithmshift.md",
+      "scraped_at": "2025-11-17T13:01:05.162494"
+    },
+    "https://www.algorithmshift.ai/vs/outsystems": {
+      "title": "AlgorithmShift vs. OutSystems - Platform Comparison 2025 | AlgorithmShift",
+      "description": "Compare AlgorithmShift and OutSystems. Modern React platform at 1/10th the cost vs. enterprise low-code with complex licensing.",
+      "text_length": 3504,
+      "image_count": 2,
+      "markdown_file": "markdown/algorithmshift-vs-outsystems---platform-comparison-2025-algorithmshift.md",
+      "scraped_at": "2025-11-17T13:01:06.253164"
+    },
+    "https://www.algorithmshift.ai/vs/ai-app-builders": {
+      "title": "AlgorithmShift vs AI App Builders (Lovable, v0, Bolt.new) - Comparison 2025 | AlgorithmShift",
+      "description": "Compare AlgorithmShift to AI app builders like Lovable, v0, and Bolt.new. Production platform vs. AI code generation prototyping tools.",
+      "text_length": 5573,
+      "image_count": 2,
+      "markdown_file": "markdown/algorithmshift-vs-ai-app-builders-lovable-v0-boltnew---comparison-2025-algorithmshift.md",
+      "scraped_at": "2025-11-17T13:01:07.524345"
+    },
+    "https://www.algorithmshift.ai/docs/auth/rls": {
+      "title": "Row-Level Security (RLS) - AlgorithmShift Documentation | AlgorithmShift",
+      "description": "Implement row-level security to control data access at the database level. Secure your data with RLS policies.",
+      "scraped_at": "2025-11-17T13:01:08.562713"
+    },
+    "https://www.algorithmshift.ai/docs/auth": {
+      "title": "Authentication & Access Control - AlgorithmShift Documentation | AlgorithmShift",
+      "description": "Secure your applications with built-in authentication, role-based access control, and row-level security.",
+      "scraped_at": "2025-11-17T13:01:09.623621"
+    },
+    "https://www.algorithmshift.ai/docs/community": {
+      "title": "Community - AlgorithmShift Documentation | AlgorithmShift",
+      "description": "Join the AlgorithmShift community. Get help, share knowledge, and connect with other developers.",
+      "scraped_at": "2025-11-17T13:01:10.661984"
+    },
+    "https://www.algorithmshift.ai/docs/visual-builder/web-apps": {
+      "title": "Web Applications - AlgorithmShift Documentation | AlgorithmShift",
+      "description": "Build responsive web applications with React and Next.js. SEO optimized and PWA ready.",
+      "scraped_at": "2025-11-17T13:01:13.189192"
+    },
+    "https://www.algorithmshift.ai/docs/visual-builder/mobile-apps": {
+      "title": "Mobile Applications - AlgorithmShift Documentation | AlgorithmShift",
+      "description": "Build native iOS and Android apps with React Native. Live preview and code export.",
+      "scraped_at": "2025-11-17T13:01:14.367711"
+    },
+    "https://www.algorithmshift.ai/docs/visual-builder/templates": {
+      "title": "Templates - AlgorithmShift Documentation | AlgorithmShift",
+      "description": "Use pre-built app, page, and section templates to accelerate development.",
+      "scraped_at": "2025-11-17T13:01:16.762521"
+    },
+    "https://www.algorithmshift.ai/docs/styling": {
+      "title": "Styling & Themes - AlgorithmShift Documentation | AlgorithmShift",
+      "description": "Customize your applications with colors, fonts, spacing, and responsive design. Built-in dark mode and theme support.",
+      "scraped_at": "2025-11-17T13:01:17.806813"
+    },
+    "https://www.algorithmshift.ai/docs/forms": {
+      "title": "Forms & Validation - AlgorithmShift Documentation | AlgorithmShift",
+      "description": "Build forms with validation, submission handling, and data binding. Connect to APIs and databases seamlessly.",
+      "scraped_at": "2025-11-17T13:01:18.867588"
+    },
+    "https://www.algorithmshift.ai/docs/tables": {
+      "title": "Data Tables - AlgorithmShift Documentation | AlgorithmShift",
+      "description": "Display and manage data with powerful table components. Sorting, filtering, pagination, and inline editing.",
+      "scraped_at": "2025-11-17T13:01:19.913791"
+    },
+    "https://www.algorithmshift.ai/docs/state": {
+      "title": "State Management - AlgorithmShift Documentation | AlgorithmShift",
+      "description": "Manage application state, global variables, and data flow between components.",
+      "scraped_at": "2025-11-17T13:01:21.060912"
+    },
+    "https://www.algorithmshift.ai/docs/mobile/react-native": {
+      "title": "React Native Setup - AlgorithmShift Documentation | AlgorithmShift",
+      "description": "Set up React Native development environment for building native mobile apps.",
+      "scraped_at": "2025-11-17T13:01:22.111188"
+    },
+    "https://www.algorithmshift.ai/docs/mobile/native": {
+      "title": "Native Features - AlgorithmShift Documentation | AlgorithmShift",
+      "description": "Access device capabilities: camera, location, push notifications, biometrics, and more.",
+      "scraped_at": "2025-11-17T13:01:23.163323"
+    },
+    "https://www.algorithmshift.ai/docs/mobile/deployment": {
+      "title": "App Store Deployment - AlgorithmShift Documentation | AlgorithmShift",
+      "description": "Deploy your mobile apps to Apple App Store and Google Play Store.",
+      "scraped_at": "2025-11-17T13:01:24.209307"
+    },
+    "https://www.algorithmshift.ai/docs/mobile/offline": {
+      "title": "Offline Mode - AlgorithmShift Documentation | AlgorithmShift",
+      "description": "Build offline-first mobile applications with local storage and sync.",
+      "scraped_at": "2025-11-17T13:01:25.291918"
+    },
+    "https://www.algorithmshift.ai/docs/workflows/builder": {
+      "title": "Workflow Builder - AlgorithmShift Documentation | AlgorithmShift",
+      "description": "Learn the visual workflow builder interface. Design workflows with drag-and-drop nodes.",
+      "scraped_at": "2025-11-17T13:01:26.356284"
+    },
+    "https://www.algorithmshift.ai/docs/workflows/triggers": {
+      "title": "Workflow Triggers - AlgorithmShift Documentation | AlgorithmShift",
+      "description": "Complete reference of all available workflow triggers. Webhooks, schedules, database events, and more.",
+      "scraped_at": "2025-11-17T13:01:27.407633"
+    },
+    "https://www.algorithmshift.ai/docs/workflows/actions": {
+      "title": "Workflow Actions - AlgorithmShift Documentation | AlgorithmShift",
+      "description": "Complete catalog of workflow actions. Database operations, API calls, emails, and more.",
+      "scraped_at": "2025-11-17T13:01:28.442466"
+    },
+    "https://www.algorithmshift.ai/docs/workflows/errors": {
+      "title": "Error Handling - AlgorithmShift Documentation | AlgorithmShift",
+      "description": "Handle errors in workflows with retries, fallbacks, and notifications.",
+      "scraped_at": "2025-11-17T13:01:29.480160"
+    },
+    "https://www.algorithmshift.ai/docs/ai/builder": {
+      "title": "Agent Builder - AlgorithmShift Documentation | AlgorithmShift",
+      "description": "Build AI agents with the visual node-based editor. Configure LLM nodes, tools, and conversation flow.",
+      "scraped_at": "2025-11-17T13:01:30.597988"
+    },
+    "https://www.algorithmshift.ai/docs/ai/models": {
+      "title": "LLM Models - AlgorithmShift Documentation | AlgorithmShift",
+      "description": "Configure AI models from OpenAI, Anthropic, and AWS Bedrock for your agents.",
+      "scraped_at": "2025-11-17T13:01:31.637099"
+    },
+    "https://www.algorithmshift.ai/docs/ai/rag": {
+      "title": "RAG & Knowledge Base - AlgorithmShift Documentation | AlgorithmShift",
+      "description": "Integrate knowledge bases with AI agents using Retrieval Augmented Generation (RAG).",
+      "scraped_at": "2025-11-17T13:01:32.769663"
+    },
+    "https://www.algorithmshift.ai/docs/ai/tools": {
+      "title": "Agent Tools - AlgorithmShift Documentation | AlgorithmShift",
+      "description": "Give AI agents capabilities with tools: database access, API calls, workflows, and file operations.",
+      "scraped_at": "2025-11-17T13:01:33.823923"
+    },
+    "https://www.algorithmshift.ai/docs/database/schema": {
+      "title": "Schema Designer - AlgorithmShift Documentation | AlgorithmShift",
+      "description": "Design your database schema visually. Create tables, define relationships, and manage constraints.",
+      "scraped_at": "2025-11-17T13:01:34.869894"
+    },
+    "https://www.algorithmshift.ai/docs/database/rest": {
+      "title": "REST APIs - AlgorithmShift Documentation | AlgorithmShift",
+      "description": "Auto-generated REST APIs for every database table. Complete CRUD operations with advanced querying.",
+      "scraped_at": "2025-11-17T13:01:35.932562"
+    },
+    "https://www.algorithmshift.ai/docs/database/views": {
+      "title": "Database Views - AlgorithmShift Documentation | AlgorithmShift",
+      "description": "Create database views for complex queries. Reusable virtual tables with SQL.",
+      "scraped_at": "2025-11-17T13:01:36.976656"
+    },
+    "https://www.algorithmshift.ai/docs/api/graphql": {
+      "title": "GraphQL API - AlgorithmShift Documentation | AlgorithmShift",
+      "description": "Query your data with GraphQL. Flexible queries and precise data fetching.",
+      "scraped_at": "2025-11-17T13:01:45.748231"
+    },
+    "https://www.algorithmshift.ai/docs/api/auth": {
+      "title": "API Authentication - AlgorithmShift Documentation | AlgorithmShift",
+      "description": "Authenticate API requests with API keys. Generate, manage, and secure your keys.",
+      "scraped_at": "2025-11-17T13:01:46.786649"
+    },
+    "https://www.algorithmshift.ai/docs/api/webhooks": {
+      "title": "Webhooks - AlgorithmShift Documentation | AlgorithmShift",
+      "description": "Receive real-time event notifications via webhooks. Subscribe to database changes and workflow events.",
+      "scraped_at": "2025-11-17T13:01:47.865322"
+    },
+    "https://www.algorithmshift.ai/docs/sdks": {
+      "title": "SDKs & Libraries - AlgorithmShift Documentation | AlgorithmShift",
+      "description": "Client libraries and SDKs for popular programming languages.",
+      "scraped_at": "2025-11-17T13:01:48.895127"
+    },
+    "https://www.algorithmshift.ai/docs/auth/users": {
+      "title": "User Management - AlgorithmShift Documentation | AlgorithmShift",
+      "description": "Manage users, groups, and user types. Create users, assign roles, and control access.",
+      "scraped_at": "2025-11-17T13:01:49.936603"
+    },
+    "https://www.algorithmshift.ai/docs/auth/roles": {
+      "title": "Roles & Permissions - AlgorithmShift Documentation | AlgorithmShift",
+      "description": "Configure role-based access control. Define custom roles and assign granular permissions.",
+      "scraped_at": "2025-11-17T13:01:50.988260"
+    },
+    "https://www.algorithmshift.ai/docs/auth/oauth": {
+      "title": "OAuth Providers - AlgorithmShift Documentation | AlgorithmShift",
+      "description": "Configure social login with Google, Microsoft, GitHub, and other OAuth providers.",
+      "scraped_at": "2025-11-17T13:01:52.022295"
+    },
+    "https://www.algorithmshift.ai/docs/auth/saml": {
+      "title": "SAML SSO - AlgorithmShift Documentation | AlgorithmShift",
+      "description": "Configure SAML single sign-on for enterprise authentication.",
+      "scraped_at": "2025-11-17T13:01:53.060856"
+    },
+    "https://www.algorithmshift.ai/docs/components": {
+      "title": "Components - AlgorithmShift Documentation | AlgorithmShift",
+      "description": "Complete reference of all UI components available in the AlgorithmShift visual builder.",
+      "scraped_at": "2025-11-17T13:01:55.377554"
+    }
+  }
+}
