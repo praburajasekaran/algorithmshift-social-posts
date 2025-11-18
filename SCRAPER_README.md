@@ -85,3 +85,4 @@ If you encounter issues:
 3. Verify Python dependencies are installed: `pip install -r requirements.txt`
 4. For JavaScript-heavy sites, consider using Selenium-based scraping
 
+
