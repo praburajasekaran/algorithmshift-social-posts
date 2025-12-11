@@ -1,22 +1,3 @@
-# AlgorithmShift Social Media Image Prompts - Streamlined Format
-## Five Post Ideas - Ready for Ideogram
-
-**Brand Color:** #11715b (Deep Teal/Forest Green)  
-**Brand:** AlgorithmShift.ai - Enterprise No-Code/Low-Code Platform  
-**Design Style:** Modern glassmorphism with gradient overlays, soft blur accents
-
----
-
-
-
-
-
-
-
-
-
----
-
 ## Post 5 · "Templates That Don't Trap You"
 
 ### LinkedIn + Facebook (1080×1080)
